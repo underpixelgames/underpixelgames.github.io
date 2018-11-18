@@ -1,0 +1,14 @@
+<style>
+        body {
+            background-color: #ec6c6c;
+            
+         }
+        img{
+            max-width: 70%;
+            max-height: 70%;
+         }
+         ::-webkit-scrollbar{
+             display: none;
+         }
+        .first-fonts{font-family: 'Spicy Rice', cursive;}
+    </style>

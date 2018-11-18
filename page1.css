@@ -1,0 +1,19 @@
+﻿body
+		{
+			background-color: #faebd7
+		}
+		img
+		{
+			max-height: 30%;
+			max-width: 30%;
+		}
+		hr 
+		{
+    		border: none;
+    		height: 1.5px;
+    		background-color: #000000;
+		}
+		::-webkit-scrollbar{
+			display: none;
+		}
+		
